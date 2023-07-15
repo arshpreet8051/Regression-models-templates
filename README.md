@@ -11,7 +11,7 @@ This repository contains a collection of template codes for various regression m
 - Templates for popular regression algorithms:
    - # Linear regression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="images/linear_regression.png" alt="Alt Text" width="5%">](Linear_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Linear_regression.py)</sup></sub></sup>
     - # Multiple regression  &nbsp; [<img src="images/graph.png" alt="Alt Text" width="5%">](Multiple_Regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Multiple_Regression.py)</sup></sub></sup>
-    - # Polynomial regression &nbsp; [<img src="images/graphj_report.png" alt="Alt Text" width="6.5%">](Linear_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Linear_regression.py)</sup></sub></sup>
+    - # Polynomial regression &nbsp; [<img src="images/graphj_report.png" alt="Alt Text" width="6.5%">](Polynomial_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Polynomial_regression.py)</sup></sub></sup>
     - # Support vector regression (SVR)  &nbsp; [<img src="images/brain_book.png" alt="Alt Text" width="5%">](Linear_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Linear_regression.py)</sup></sub></sup>
     - # Decision tree [<img src="images/decision1.png" alt="Alt Text" width="5%">](Linear_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Linear_regression.py)</sup></sub></sup>
     - # Random forest regression  &nbsp; [<img src="images/forest.png" alt="Alt Text" width="5%">](Linear_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Linear_regression.py)</sup></sub></sup>
