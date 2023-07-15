@@ -9,14 +9,13 @@ This repository contains a collection of template codes for various regression m
 
 ## Features
 - Templates for popular regression algorithms:
-    - ### Linear regression [Link](Linear_regression.py) 🔗
-    - ### Multiple regression
+   - # Linear regression &nbsp; [<img src="images/linear_regression.png" alt="Alt Text" width="5%">](Linear_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Linear_regression.py)</sup></sub></sup>
+    - # Multiple regression  &nbsp; [<img src="images/linear_regression.png" alt="Alt Text" width="5%">](Linear_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">link</span>](Linear_regression.py)</sup></sub></sup>
     - ### Polynomial regression
     - ### Support vector regression (SVR)
     - ### Decision tree
     - ### Random forest regression
     
-- Sample datasets included
 - Clear instructions and code comments for easy understanding
 - Python code snippets
 
