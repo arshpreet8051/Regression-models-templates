@@ -1,4 +1,4 @@
-# Contributing Guidelines
+#  <img src="images/python_snake.png" alt="Alt Text" width="4%"> Contributing Guidelines
 
 Thank you for your interest in contributing to this project! We welcome contributions from the community to help improve and enhance this project. Please take a moment to review these guidelines before making any contributions.
 
