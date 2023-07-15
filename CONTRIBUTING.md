@@ -9,15 +9,15 @@ This project aims to [provide a brief description of the project and its goals].
 To contribute to this project, follow these steps:
 
 1. Fork the repository and clone it to your local machine.
-2. Set up the development environment as described in the README file.
+2. Set up the development environment as described in the### README file.
 3. Create a new branch for your contributions:
-git checkout -b feature/your-feature-name
+##### git checkout -b feature/your-feature-name
 4. Make your changes, ensuring adherence to coding conventions and style guidelines.
 5. Test your changes to ensure they are functioning as expected.
 6. Commit your changes with a descriptive commit message:
-git commit -m "Add feature/fix: description of your changes"
+##### git commit -m "Add feature/fix: description of your changes"
 7. Push your changes to your forked repository:
-git push origin feature/your-feature-name
+##### git push origin feature/your-feature-name
 8. Open a pull request, providing a clear description of your changes and their purpose.
 
 ## Contributing Guidelines
@@ -30,7 +30,7 @@ Please follow these guidelines when making contributions:
 - Be respectful and professional in all interactions with other contributors.
 
 ## Code of Conduct
-Please note that this project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating in this project, you are expected to uphold and follow this code of conduct. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
+Please note that this project adheres to a code of conduct. By participating in this project, you are expected to uphold and follow this code of conduct. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
 
 ## Contributing Process
 The process for contributing to this project is as follows:
