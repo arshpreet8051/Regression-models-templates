@@ -9,7 +9,7 @@ This repository contains a collection of template codes for various regression m
 
 ## Features
 - Templates for popular regression algorithms:
-    - ### Linear regression
+    - ### Linear regression [Link](Linear_Regression.py) 🔗
     - ### Multiple regression
     - ### Polynomial regression
     - ### Support vector regression (SVR)
