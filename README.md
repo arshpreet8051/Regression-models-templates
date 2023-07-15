@@ -1,6 +1,6 @@
-# Regression-models-templates ![](images/ml_icon.png)
+# Regression-models-templates in Python ![](images/python_gif.gif)
 This repository contains a collection of template codes for various regression models in machine learning.Feel free to explore, use, and modify these templates in your machine learning projects
-# Machine Learning Regression Model Templates
+## Machine Learning Regression Model Templates
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
