@@ -1,4 +1,4 @@
-# Regression-models-templates in Python ![](images/python_gif.gif)
+# ![](images/python_gif.gif)  Regression-models-templates in Python  <img src="images/sanke.gif" alt="Alt Text" width="4.5%">
 This repository contains a collection of template codes for various regression models in machine learning.Feel free to explore, use, and modify these templates in your machine learning projects
 ## Machine Learning Regression Model Templates &nbsp;<img src="images/ml_gif.gif" alt="Alt Text" width="4.5%">
 
