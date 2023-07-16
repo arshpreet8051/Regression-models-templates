@@ -1,4 +1,4 @@
-# Simple Linear Regression
+# Simple Linear Regression 🙂
 
 # Importing the libraries
 
