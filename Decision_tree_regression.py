@@ -1,4 +1,4 @@
-# Decision Tree Regression
+# Decision Tree Regression 🌲
 
 ## Importing the libraries
 
