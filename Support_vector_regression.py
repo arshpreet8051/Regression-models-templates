@@ -1,4 +1,4 @@
-# Support Vector Regression (SVR)
+# Support Vector Regression (SVR) 💁🏻‍♂️
 
 # Importing the libraries
 
