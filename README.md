@@ -15,7 +15,7 @@ This repository contains a collection of template codes for various regression m
     - # Support vector regression (SVR)  &nbsp; [<img src="images/brain_book.png" alt="Alt Text" width="5%">](Support_vector_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Support_vector_regression.py)</sup></sub></sup>
     - # Decision tree [<img src="images/decision1.png" alt="Alt Text" width="6%">](Decision_tree_regression.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Decision_tree_regression.py)</sup></sub></sup>
     - # Random forest regression  &nbsp; [<img src="images/forest.png" alt="Alt Text" width="5%">](Random_forest.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Random_forest.py)</sup></sub></sup>
-    - # Bonus <sub><sup><span style="font-size:;">[Data Preprocessing]</span></sup></sub> &nbsp; [<img src="images/bonus.png" alt="Alt Text" width="5%">](Data_preprocessing.py) <sup><sub><sup>[<span style="font-size: smaller;">clcik me</span>](Linear_regression.py)</sup></sub></sup>
+    - # Bonus <sub><sup><span style="font-size:;">[Data Preprocessing]</span></sup></sub> &nbsp; [<img src="images/bonus.png" alt="Alt Text" width="5%">](Data_preprocessing.py) <sup><sub><sup>[<span style="font-size: smaller;">click me</span>](Linear_regression.py)</sup></sub></sup>
     
 - Clear instructions and code comments for easy understanding
 - Python code snippets
