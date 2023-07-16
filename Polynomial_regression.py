@@ -1,4 +1,4 @@
-# Polynomial Regression
+# Polynomial Regression 🔥
 
 ## Importing the libraries
 
