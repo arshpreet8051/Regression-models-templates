@@ -21,7 +21,7 @@ This repository contains a collection of template codes for various regression m
 - Python code snippets
 
 ## Usage <img src="images/usage.gif" alt="Alt Text" width="4.5%">
-1. Clone the repository using the following command: git clone https://github.com/your-username/regression-model-templates.git
+1. Clone the repository using the following command: git clone https://github.com/arshpreet8051/regression-model-templates.git
 
 2. Navigate to the desired template directory.
 
